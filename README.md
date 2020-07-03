@@ -1,5 +1,6 @@
 # Cat_Image_Recognization-Neural-Networks-
 A simple Machine learing python program to recongnize cat image
+(you Can use Demo.png to see demo run) 
 prerequisites && Requirement:
   *numpy
   *scipy (version < 1.1.0 )
